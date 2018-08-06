@@ -1,2 +1,2 @@
 # Salesforce-and-Twilio-Integration
-Integration of Twilio Configration
+Integration of Twilio with Salesforce
